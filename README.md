@@ -31,3 +31,8 @@ Get Search Working
 Create my Search component
 add state to usePokemon for searchTerm
 add event handler for the clicking on the button
+
+
+state variables: pokemans, types, selected type, searchterm, loading
+
+Events: api call, dropdown cahnge api call, search term no API call, button APi call 
